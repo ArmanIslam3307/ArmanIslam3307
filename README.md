@@ -4,12 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:191970,100:191970&text=Arman%20Islam&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=👨‍💻+Full+Stack+Developer;⚡+Django+Backend+Developer;🎨+Frontend+Enthusiast;🐍+Python+Developer;🚀+Building+Real+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Django+Developer;Frontend+Enthusiast;Python+Learner;Always+Building+Real+Projects"/>
 
 </div>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Django+Developer;Frontend+Enthusiast;Python+Learner;Always+Building+Real+Projects"/>
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ArmanIslam3307&label=Profile+Views&style=for-the-badge"/>

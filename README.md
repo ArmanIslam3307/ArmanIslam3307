@@ -40,9 +40,11 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/ArmanIslam3307
 - LinkedIn: https://bd.linkedin.com/in/armanislam3307
-- Email: armanislam3307@gmail.com
 - Portfolio: http://armanislam3307.netlify.app/
+- Facebook: https://www.facebook.com/ArmanIslam3307
+- GitHub: https://github.com/ArmanIslam3307
+- Email: armanislam3307@gmail.com
+
 
 > **Keep Learning • Keep Building • Keep Growing 🚀**

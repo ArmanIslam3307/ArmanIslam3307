@@ -4,8 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:191970,100:191970&text=Arman%20Islam&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Django+Developer;Frontend+Enthusiast;Python+Learner;Always+Building+Real+Projects"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+%7C+Django+%7C+React+Developer;Building+Practical+Web+Applications;Learning+Every+Day+and+Growing+Consistently"/>
+</p>
 </div>
 
 <p align="center">

@@ -22,65 +22,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ArmanIslam3307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/armanislam3307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armanislam3307@gmail.com) 
 
 ## 🚀 Tech Stack & Tools
+🚀 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="52" height="52" alt="Bootstrap"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,ts,sass,react,jquery,python,firebase,django,mysql,sqlite,figma,git,github,vscode,postman,linux&perline=5" />
 </p><p align="center">
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sass" width="52" height="52" alt="SASS"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jquery" width="52" height="52" alt="jQuery"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" width="52" height="52" alt="Firebase"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" width="52" height="52" alt="Django"/>
-  </a>
-</p><p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" width="52" height="52" alt="SQLite"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/>
-  </a>
-</p><p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,linux" alt="VS Code, Postman, Linux"/>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Focus-Django%20%2B%20React-0A0A0A?style=for-the-badge&logo=django&logoColor=white" alt="Focus Django and React"/>
+  <img src="https://img.shields.io/badge/Focus-Django%20%2B%20React-0A0A0A?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 # 📊 GitHub Stats:

@@ -18,11 +18,25 @@
 - 🚀 Building practical web applications
 - 🎯 Goal: Become a Professional Full Stack Web Developer
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ArmanIslam3307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/armanislam3307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armanislam3307@gmail.com) 
+##🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/ArmanIslam3307" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:armanislam3307@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/armanislam3307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="http://armanislam3307.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 Tech Stack & Tools
-🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,ts,sass,react,jquery,python,firebase,django,mysql,sqlite,figma,git,github,vscode,postman,linux&perline=5" />

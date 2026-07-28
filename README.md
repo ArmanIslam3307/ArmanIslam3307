@@ -18,24 +18,6 @@
 - 🚀 Building practical web applications
 - 🎯 Goal: Become a Professional Full Stack Web Developer
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.facebook.com/ArmanIslam3307" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:armanislam3307@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/armanislam3307" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="http://armanislam3307.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
@@ -51,15 +33,16 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArmanIslam3307&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
 ## 🚀 Featured Projects
 - 🌾 **BorgaBondhu** — Agricultural platform with Django.
 - 📚 **Student Attendance System** — Authentication & attendance management.
 - 🍲 **Recipe Management System** — CRUD application.
 
-## 📫 Connect
+## 🌐 Connect With Me
+
 - GitHub: https://github.com/ArmanIslam3307
 - LinkedIn: https://bd.linkedin.com/in/armanislam3307
 - Email: armanislam3307@gmail.com
+- Portfolio: http://armanislam3307.netlify.app/
 
 > **Keep Learning • Keep Building • Keep Growing 🚀**
